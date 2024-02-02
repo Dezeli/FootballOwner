@@ -129,7 +129,7 @@ exe 파일 실행시 사진 및 음악파일, Database 파일의 경로를 알�
     도전하면 도전할 수록 욕심이 나는게 개발자인가 봅니다. 
 ***
 ## 실행사진
-<img src="https://user-images.githubusercontent.com/63716450/108174370-b39b1f00-7142-11eb-97e0-32b9ab294855.PNG"  width="900" height="500">
+<img src="https://github.com/Dezeli/FootballOwner/assets/142760384/7a687d52-c717-436e-94d6-ebac16f905e7"  width="900" height="500">
 <img src="https://user-images.githubusercontent.com/63716450/108174376-b5fd7900-7142-11eb-82af-2181580c2f14.PNG"  width="900" height="500">
 <img src="https://user-images.githubusercontent.com/63716450/108174380-b6960f80-7142-11eb-9f44-6c14a4ded2a2.PNG"  width="900" height="500">
 <img src="https://user-images.githubusercontent.com/63716450/108174382-b72ea600-7142-11eb-8c74-2b468fd8fbd7.PNG"  width="900" height="500">
